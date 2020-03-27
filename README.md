@@ -11,4 +11,4 @@ APP project for communication with NGOs.
   
 # Description
 My first APP project, developed during the 11th week Omnistack of RocketSeat.
-Week for those who want to start in back-end and front-end development, with React, React-Native and NodeJs.
+Week for those who want to start in back-end and front-end development, with React, React-Native, NodeJs, among other tools and platforms.
